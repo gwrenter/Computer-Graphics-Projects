@@ -1,0 +1,5 @@
+Libraries to use for OpenGL
+
+-lopengl32
+-lfreeglut
+-lglu32
