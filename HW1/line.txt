@@ -1,0 +1,25 @@
+set_color 1.0 1.0 1.0
+draw_line 1 10 16 490 16
+draw_line 1 16 10 16 490
+draw_line 1 10 62 490 62
+draw_line 1 10 108 490 108
+draw_line 1 10 154 490 154
+draw_line 1 10 200 490 200
+draw_line 1 10 246 490 246
+draw_line 1 10 292 490 292
+draw_line 1 10 338 490 338
+draw_line 1 10 384 490 384
+draw_line 1 10 430 490 430
+draw_line 1 10 476 490 476
+draw_line 1 79 10 79 16
+draw_line 1 158 10 158 16
+draw_line 1 237 10 237 16
+draw_line 1 316 10 316 16
+draw_line 1 395 10 395 16
+draw_line 1 474 10 474 16
+set_color 1.0 0.5 0.5
+draw_line 6 79 19 158 95
+draw_line 6 158 95 237 76
+draw_line 6 237 76 316 104
+draw_line 6 316 104 395 114
+draw_line 6 395 114 474 398
